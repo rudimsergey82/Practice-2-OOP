@@ -22,7 +22,7 @@ $cars[] = new Car(7, "Maserati", "Quattroporte", 2015, "silver", 300000, "AX3434
 $cars[] = new Car(8, "Mercedes", "GLS500", 2003, "back", 80000, "AX7575AE");
 $cars[] = new Car(9, "BMW", "M5", 2010, "blue", 80000, "AX4534AE");
 $cars[] = new Car(10, "Bentley", "Mulsanne", 2009, "white", 240000, "AX7676AE");
-//$cars = [$car1, $car2, $car3, $car4, $car5, $car6, $car7, $car8, $car9, $car10];
+
 
 $selectAuto = new CarRepository();
 
